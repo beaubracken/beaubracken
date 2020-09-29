@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beaubracken.com/static/css/main.aa6928c8.chunk.css",
+    "main.js": "/beaubracken.com/static/js/main.0cdde624.chunk.js",
+    "main.js.map": "/beaubracken.com/static/js/main.0cdde624.chunk.js.map",
+    "runtime-main.js": "/beaubracken.com/static/js/runtime-main.46448c26.js",
+    "runtime-main.js.map": "/beaubracken.com/static/js/runtime-main.46448c26.js.map",
+    "static/js/2.62b0c9a7.chunk.js": "/beaubracken.com/static/js/2.62b0c9a7.chunk.js",
+    "static/js/2.62b0c9a7.chunk.js.map": "/beaubracken.com/static/js/2.62b0c9a7.chunk.js.map",
+    "index.html": "/beaubracken.com/index.html",
+    "precache-manifest.d79cfa2f4df87fc0a9cf606c8e769469.js": "/beaubracken.com/precache-manifest.d79cfa2f4df87fc0a9cf606c8e769469.js",
+    "service-worker.js": "/beaubracken.com/service-worker.js",
+    "static/css/main.aa6928c8.chunk.css.map": "/beaubracken.com/static/css/main.aa6928c8.chunk.css.map",
+    "static/js/2.62b0c9a7.chunk.js.LICENSE.txt": "/beaubracken.com/static/js/2.62b0c9a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46448c26.js",
+    "static/js/2.62b0c9a7.chunk.js",
+    "static/css/main.aa6928c8.chunk.css",
+    "static/js/main.0cdde624.chunk.js"
+  ]
+}
